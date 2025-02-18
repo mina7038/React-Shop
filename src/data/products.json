@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "설화수 윤조에센스",
+    "price": 42000,
+    "img": "img/sulwhasoo1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "라네즈 워터뱅크 크림",
+    "price": 31000,
+    "img": "img/laneige1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "이니스프리 블랙티 앰플",
+    "price": 28000,
+    "img": "img/innisfree1.jpg"
+  }
+]
